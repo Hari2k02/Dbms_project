@@ -7,4 +7,9 @@
 * Ability to merge orders
 * Unable to duplicate items/orders
 
+### How to run
+* install npm in both server & client
+* client is built in react -- npm run
+* server is built in express -- nodemon
+
 
